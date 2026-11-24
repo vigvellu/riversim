@@ -1,0 +1,23 @@
+category,dataset,check,result,status,explanation
+Spatial,All GIS datasets,CRS consistency,EPSG:32645,PASS,All datasets should use the same projected CRS.
+Geometry,Bank points,Missing geometries,0,PASS,Number of features without geometry.
+Geometry,Bank points,Invalid geometries,0,PASS,Number of geometries failing validity checks.
+Geometry,Banklines,Missing geometries,0,PASS,Number of features without geometry.
+Geometry,Banklines,Invalid geometries,0,PASS,Number of geometries failing validity checks.
+Geometry,Transects,Missing geometries,0,PASS,Number of features without geometry.
+Geometry,Transects,Invalid geometries,0,PASS,Number of geometries failing validity checks.
+Geometry,Water polygons,Missing geometries,0,PASS,Number of features without geometry.
+Geometry,Water polygons,Invalid geometries,0,PASS,Number of geometries failing validity checks.
+Geometry,Centrelines,Missing geometries,0,PASS,Number of features without geometry.
+Geometry,Centrelines,Invalid geometries,0,PASS,Number of geometries failing validity checks.
+Completeness,Bank points,Expected feature count,228 / 228,PASS,Expected 6 years × 19 transects × 2 banks.
+Completeness,Bank points,Duplicate survey records,0,PASS,"Each transect, bank and year should have one record."
+Measurement,Bank points,Median observed distance increment,30.0,INFO,"Describes spacing between unique recorded values, not measurement accuracy."
+Measurement,Bank points,Minimum observed distance increment,15.0,INFO,Smallest positive difference between unique distance values.
+Measurement,Bank points,Maximum observed distance increment,270.0,INFO,Largest positive difference between unique distance values.
+Spatial,Bank points,Maximum offset from transect,0.000425,PASS,Measures how closely bank points follow their corresponding transects.
+Spatial,Bank points,Mean offset from transect,0.000244,INFO,Mean geometric distance between bank points and their transects.
+Spatial,Bank points,Maximum offset from bankline,0.0,PASS,Checks whether measured bank points lie on their corresponding banklines.
+Migration,Migration rates,Rates exceeding screening threshold,92,REVIEW,Threshold: absolute rate greater than 100 m/year.
+Channel morphology,Channel change,Large width changes,54,REVIEW,Threshold: absolute width change greater than 1000 m.
+Erosion/accretion,Erosion results,Classification and sign consistency,0,PASS,Checks whether signed retreat values match their classifications.

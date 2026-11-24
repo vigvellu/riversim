@@ -1,0 +1,150 @@
+category,location,description,severity
+Migration,T01 north 2000-2010,Migration rate 238.50 m/year exceeds the screening threshold.,Review
+Migration,T01 north 2010-2015,Migration rate -504.00 m/year exceeds the screening threshold.,Review
+Migration,T01 south 1990-2000,Migration rate 289.50 m/year exceeds the screening threshold.,Review
+Migration,T01 south 2010-2015,Migration rate -507.00 m/year exceeds the screening threshold.,Review
+Migration,T01 south 2015-2020,Migration rate 288.00 m/year exceeds the screening threshold.,Review
+Migration,T02 north 2000-2010,Migration rate 240.00 m/year exceeds the screening threshold.,Review
+Migration,T02 north 2010-2015,Migration rate -480.00 m/year exceeds the screening threshold.,Review
+Migration,T02 south 1990-2000,Migration rate 286.50 m/year exceeds the screening threshold.,Review
+Migration,T02 south 2010-2015,Migration rate -516.00 m/year exceeds the screening threshold.,Review
+Migration,T02 south 2015-2020,Migration rate 288.00 m/year exceeds the screening threshold.,Review
+Migration,T03 north 2000-2010,Migration rate 234.00 m/year exceeds the screening threshold.,Review
+Migration,T03 north 2010-2015,Migration rate -468.00 m/year exceeds the screening threshold.,Review
+Migration,T03 south 1990-2000,Migration rate 256.50 m/year exceeds the screening threshold.,Review
+Migration,T03 south 2010-2015,Migration rate -117.00 m/year exceeds the screening threshold.,Review
+Migration,T03 south 2015-2020,Migration rate -132.00 m/year exceeds the screening threshold.,Review
+Migration,T04 north 2000-2010,Migration rate 229.50 m/year exceeds the screening threshold.,Review
+Migration,T04 north 2010-2015,Migration rate -459.00 m/year exceeds the screening threshold.,Review
+Migration,T04 south 1990-2000,Migration rate 235.50 m/year exceeds the screening threshold.,Review
+Migration,T04 south 2010-2015,Migration rate -108.00 m/year exceeds the screening threshold.,Review
+Migration,T04 south 2015-2020,Migration rate -147.00 m/year exceeds the screening threshold.,Review
+Migration,T05 north 2000-2010,Migration rate 226.50 m/year exceeds the screening threshold.,Review
+Migration,T05 north 2010-2015,Migration rate -453.00 m/year exceeds the screening threshold.,Review
+Migration,T05 south 1990-2000,Migration rate 213.00 m/year exceeds the screening threshold.,Review
+Migration,T05 south 2010-2015,Migration rate -105.00 m/year exceeds the screening threshold.,Review
+Migration,T05 south 2015-2020,Migration rate -168.00 m/year exceeds the screening threshold.,Review
+Migration,T06 north 2000-2010,Migration rate 222.00 m/year exceeds the screening threshold.,Review
+Migration,T06 north 2010-2015,Migration rate -444.00 m/year exceeds the screening threshold.,Review
+Migration,T06 south 1990-2000,Migration rate 187.50 m/year exceeds the screening threshold.,Review
+Migration,T06 south 2010-2015,Migration rate -105.00 m/year exceeds the screening threshold.,Review
+Migration,T06 south 2015-2020,Migration rate -183.00 m/year exceeds the screening threshold.,Review
+Migration,T07 north 2000-2010,Migration rate 217.50 m/year exceeds the screening threshold.,Review
+Migration,T07 north 2010-2015,Migration rate -426.00 m/year exceeds the screening threshold.,Review
+Migration,T07 south 1990-2000,Migration rate 174.00 m/year exceeds the screening threshold.,Review
+Migration,T07 south 2010-2015,Migration rate -102.00 m/year exceeds the screening threshold.,Review
+Migration,T07 south 2015-2020,Migration rate -222.00 m/year exceeds the screening threshold.,Review
+Migration,T08 north 2000-2010,Migration rate 214.50 m/year exceeds the screening threshold.,Review
+Migration,T08 north 2010-2015,Migration rate -426.00 m/year exceeds the screening threshold.,Review
+Migration,T08 south 1990-2000,Migration rate 154.50 m/year exceeds the screening threshold.,Review
+Migration,T08 south 2015-2020,Migration rate -243.00 m/year exceeds the screening threshold.,Review
+Migration,T09 north 2000-2010,Migration rate 214.50 m/year exceeds the screening threshold.,Review
+Migration,T09 north 2010-2015,Migration rate -414.00 m/year exceeds the screening threshold.,Review
+Migration,T09 south 1990-2000,Migration rate 135.00 m/year exceeds the screening threshold.,Review
+Migration,T09 south 2015-2020,Migration rate -282.00 m/year exceeds the screening threshold.,Review
+Migration,T10 north 2000-2010,Migration rate 201.00 m/year exceeds the screening threshold.,Review
+Migration,T10 north 2010-2015,Migration rate -402.00 m/year exceeds the screening threshold.,Review
+Migration,T10 south 1990-2000,Migration rate 121.50 m/year exceeds the screening threshold.,Review
+Migration,T10 south 2000-2010,Migration rate 118.50 m/year exceeds the screening threshold.,Review
+Migration,T10 south 2010-2015,Migration rate -105.00 m/year exceeds the screening threshold.,Review
+Migration,T10 south 2015-2020,Migration rate -270.00 m/year exceeds the screening threshold.,Review
+Migration,T11 north 2000-2010,Migration rate 223.50 m/year exceeds the screening threshold.,Review
+Migration,T11 north 2010-2015,Migration rate -408.00 m/year exceeds the screening threshold.,Review
+Migration,T11 south 1990-2000,Migration rate 115.50 m/year exceeds the screening threshold.,Review
+Migration,T11 south 2000-2010,Migration rate 127.50 m/year exceeds the screening threshold.,Review
+Migration,T11 south 2015-2020,Migration rate -330.00 m/year exceeds the screening threshold.,Review
+Migration,T12 north 2000-2010,Migration rate 232.50 m/year exceeds the screening threshold.,Review
+Migration,T12 north 2010-2015,Migration rate -402.00 m/year exceeds the screening threshold.,Review
+Migration,T12 south 2000-2010,Migration rate 144.00 m/year exceeds the screening threshold.,Review
+Migration,T12 south 2015-2020,Migration rate -348.00 m/year exceeds the screening threshold.,Review
+Migration,T13 north 2000-2010,Migration rate 249.00 m/year exceeds the screening threshold.,Review
+Migration,T13 north 2010-2015,Migration rate -402.00 m/year exceeds the screening threshold.,Review
+Migration,T13 south 2000-2010,Migration rate 160.50 m/year exceeds the screening threshold.,Review
+Migration,T13 south 2015-2020,Migration rate -360.00 m/year exceeds the screening threshold.,Review
+Migration,T14 north 2000-2010,Migration rate 262.50 m/year exceeds the screening threshold.,Review
+Migration,T14 north 2010-2015,Migration rate -408.00 m/year exceeds the screening threshold.,Review
+Migration,T14 south 2000-2010,Migration rate 177.00 m/year exceeds the screening threshold.,Review
+Migration,T14 south 2015-2020,Migration rate -381.00 m/year exceeds the screening threshold.,Review
+Migration,T15 north 2000-2010,Migration rate 262.50 m/year exceeds the screening threshold.,Review
+Migration,T15 north 2010-2015,Migration rate -387.00 m/year exceeds the screening threshold.,Review
+Migration,T15 north 2015-2020,Migration rate -105.00 m/year exceeds the screening threshold.,Review
+Migration,T15 south 2000-2010,Migration rate 193.50 m/year exceeds the screening threshold.,Review
+Migration,T15 south 2015-2020,Migration rate -408.00 m/year exceeds the screening threshold.,Review
+Migration,T16 north 2000-2010,Migration rate 280.50 m/year exceeds the screening threshold.,Review
+Migration,T16 north 2010-2015,Migration rate -357.00 m/year exceeds the screening threshold.,Review
+Migration,T16 north 2015-2020,Migration rate -165.00 m/year exceeds the screening threshold.,Review
+Migration,T16 south 2000-2010,Migration rate 207.00 m/year exceeds the screening threshold.,Review
+Migration,T16 south 2015-2020,Migration rate -441.00 m/year exceeds the screening threshold.,Review
+Migration,T17 north 2000-2010,Migration rate 306.00 m/year exceeds the screening threshold.,Review
+Migration,T17 north 2010-2015,Migration rate -447.00 m/year exceeds the screening threshold.,Review
+Migration,T17 north 2015-2020,Migration rate -111.00 m/year exceeds the screening threshold.,Review
+Migration,T17 south 2000-2010,Migration rate 225.00 m/year exceeds the screening threshold.,Review
+Migration,T17 south 2015-2020,Migration rate -447.00 m/year exceeds the screening threshold.,Review
+Migration,T18 north 2000-2010,Migration rate 312.00 m/year exceeds the screening threshold.,Review
+Migration,T18 north 2010-2015,Migration rate -453.00 m/year exceeds the screening threshold.,Review
+Migration,T18 north 2015-2020,Migration rate -111.00 m/year exceeds the screening threshold.,Review
+Migration,T18 south 2000-2010,Migration rate 241.50 m/year exceeds the screening threshold.,Review
+Migration,T18 south 2015-2020,Migration rate -453.00 m/year exceeds the screening threshold.,Review
+Migration,T19 north 2000-2010,Migration rate 313.50 m/year exceeds the screening threshold.,Review
+Migration,T19 north 2010-2015,Migration rate -300.00 m/year exceeds the screening threshold.,Review
+Migration,T19 north 2015-2020,Migration rate -267.00 m/year exceeds the screening threshold.,Review
+Migration,T19 south 2000-2010,Migration rate 252.00 m/year exceeds the screening threshold.,Review
+Migration,T19 south 2015-2020,Migration rate -459.00 m/year exceeds the screening threshold.,Review
+Migration,T19 south 2020-2025,Migration rate -129.00 m/year exceeds the screening threshold.,Review
+Channel morphology,T01 1990-2000,Width change of 2760.00 m exceeds the screening threshold.,Review
+Channel morphology,T01 2000-2010,Width change of -2970.00 m exceeds the screening threshold.,Review
+Channel morphology,T01 2015-2020,Width change of 1305.00 m exceeds the screening threshold.,Review
+Channel morphology,T02 1990-2000,Width change of 2760.00 m exceeds the screening threshold.,Review
+Channel morphology,T02 2000-2010,Width change of -2910.00 m exceeds the screening threshold.,Review
+Channel morphology,T02 2015-2020,Width change of 1440.00 m exceeds the screening threshold.,Review
+Channel morphology,T03 1990-2000,Width change of 2565.00 m exceeds the screening threshold.,Review
+Channel morphology,T03 2000-2010,Width change of -2565.00 m exceeds the screening threshold.,Review
+Channel morphology,T03 2010-2015,Width change of 1755.00 m exceeds the screening threshold.,Review
+Channel morphology,T04 1990-2000,Width change of 2340.00 m exceeds the screening threshold.,Review
+Channel morphology,T04 2000-2010,Width change of -2325.00 m exceeds the screening threshold.,Review
+Channel morphology,T04 2010-2015,Width change of 1755.00 m exceeds the screening threshold.,Review
+Channel morphology,T05 1990-2000,Width change of 2130.00 m exceeds the screening threshold.,Review
+Channel morphology,T05 2000-2010,Width change of -2055.00 m exceeds the screening threshold.,Review
+Channel morphology,T05 2010-2015,Width change of 1740.00 m exceeds the screening threshold.,Review
+Channel morphology,T06 1990-2000,Width change of 1875.00 m exceeds the screening threshold.,Review
+Channel morphology,T06 2000-2010,Width change of -1800.00 m exceeds the screening threshold.,Review
+Channel morphology,T06 2010-2015,Width change of 1695.00 m exceeds the screening threshold.,Review
+Channel morphology,T07 1990-2000,Width change of 1740.00 m exceeds the screening threshold.,Review
+Channel morphology,T07 2000-2010,Width change of -1545.00 m exceeds the screening threshold.,Review
+Channel morphology,T07 2010-2015,Width change of 1620.00 m exceeds the screening threshold.,Review
+Channel morphology,T07 2015-2020,Width change of -1065.00 m exceeds the screening threshold.,Review
+Channel morphology,T08 1990-2000,Width change of 1560.00 m exceeds the screening threshold.,Review
+Channel morphology,T08 2000-2010,Width change of -1380.00 m exceeds the screening threshold.,Review
+Channel morphology,T08 2010-2015,Width change of 1695.00 m exceeds the screening threshold.,Review
+Channel morphology,T08 2015-2020,Width change of -1215.00 m exceeds the screening threshold.,Review
+Channel morphology,T09 1990-2000,Width change of 1350.00 m exceeds the screening threshold.,Review
+Channel morphology,T09 2000-2010,Width change of -1155.00 m exceeds the screening threshold.,Review
+Channel morphology,T09 2010-2015,Width change of 1740.00 m exceeds the screening threshold.,Review
+Channel morphology,T09 2015-2020,Width change of -1335.00 m exceeds the screening threshold.,Review
+Channel morphology,T10 1990-2000,Width change of 1200.00 m exceeds the screening threshold.,Review
+Channel morphology,T10 2010-2015,Width change of 1485.00 m exceeds the screening threshold.,Review
+Channel morphology,T10 2015-2020,Width change of -1350.00 m exceeds the screening threshold.,Review
+Channel morphology,T11 1990-2000,Width change of 1260.00 m exceeds the screening threshold.,Review
+Channel morphology,T11 2010-2015,Width change of 1785.00 m exceeds the screening threshold.,Review
+Channel morphology,T11 2015-2020,Width change of -1515.00 m exceeds the screening threshold.,Review
+Channel morphology,T12 1990-2000,Width change of 1185.00 m exceeds the screening threshold.,Review
+Channel morphology,T12 2010-2015,Width change of 1785.00 m exceeds the screening threshold.,Review
+Channel morphology,T12 2015-2020,Width change of -1545.00 m exceeds the screening threshold.,Review
+Channel morphology,T13 1990-2000,Width change of 1155.00 m exceeds the screening threshold.,Review
+Channel morphology,T13 2010-2015,Width change of 1785.00 m exceeds the screening threshold.,Review
+Channel morphology,T13 2015-2020,Width change of -1485.00 m exceeds the screening threshold.,Review
+Channel morphology,T14 1990-2000,Width change of 1035.00 m exceeds the screening threshold.,Review
+Channel morphology,T14 2010-2015,Width change of 1845.00 m exceeds the screening threshold.,Review
+Channel morphology,T14 2015-2020,Width change of -1485.00 m exceeds the screening threshold.,Review
+Channel morphology,T15 2010-2015,Width change of 1845.00 m exceeds the screening threshold.,Review
+Channel morphology,T15 2015-2020,Width change of -1515.00 m exceeds the screening threshold.,Review
+Channel morphology,T16 2010-2015,Width change of 1650.00 m exceeds the screening threshold.,Review
+Channel morphology,T16 2015-2020,Width change of -1380.00 m exceeds the screening threshold.,Review
+Channel morphology,T17 2010-2015,Width change of 2085.00 m exceeds the screening threshold.,Review
+Channel morphology,T17 2015-2020,Width change of -1680.00 m exceeds the screening threshold.,Review
+Channel morphology,T18 2010-2015,Width change of 2115.00 m exceeds the screening threshold.,Review
+Channel morphology,T18 2015-2020,Width change of -1710.00 m exceeds the screening threshold.,Review
+Channel morphology,T19 2010-2015,Width change of 1395.00 m exceeds the screening threshold.,Review
+Centreline,2015 segment 2,Segment is 6.62 times the median segment length.,Review
+Centreline,2015 segment 18,Segment is 2.64 times the median segment length.,Review
+Centreline,2025 segment 18,Segment is 3.67 times the median segment length.,Review

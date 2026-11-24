@@ -1,0 +1,7 @@
+transect_id,bank,displacement_m,retreat_m,retreat_rate_m_per_year,classification,start_year,end_year,duration_years,hotspot_rank
+T19,south,-495.0,495.0,14.142857142857142,Retreat,1990,2025,35,1
+T01,north,135.0,135.0,3.857142857142857,Retreat,1990,2025,35,2
+T02,north,105.0,105.0,3.0,Retreat,1990,2025,35,3
+T07,north,45.0,45.0,1.2857142857142858,Retreat,1990,2025,35,4
+T04,north,15.0,15.0,0.42857142857142855,Retreat,1990,2025,35,5
+T10,north,15.0,15.0,0.42857142857142855,Retreat,1990,2025,35,6

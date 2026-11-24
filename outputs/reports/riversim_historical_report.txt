@@ -1,0 +1,113 @@
+RIVERSIM
+CONSOLIDATED HISTORICAL CHANGE REPORT
+Study period: 1990–2025
+
+IMPORTANT:
+Results are based on reconstructed and digitized GIS data.
+They should be treated as provisional until validated against
+original satellite imagery and independent reference data.
+
+HISTORICAL INTERVAL SUMMARY
+
+Period: 1990–2000
+Mean centre movement: 585.39 m
+Mean width change: 1530.79 m
+Centre direction: Southward
+Channel trend: Widening
+Southward transects: 15
+Northward transects: 4
+Stable transects: 0
+
+Period: 2000–2010
+Mean centre movement: 1761.32 m
+Mean width change: -1403.68 m
+Centre direction: Southward
+Channel trend: Narrowing
+Southward transects: 19
+Northward transects: 0
+Stable transects: 0
+
+Period: 2010–2015
+Mean centre movement: -1337.37 m
+Mean width change: 1556.84 m
+Centre direction: Northward
+Channel trend: Widening
+Southward transects: 0
+Northward transects: 19
+Stable transects: 0
+
+Period: 2015–2020
+Mean centre movement: -745.66 m
+Mean width change: -981.32 m
+Centre direction: Northward
+Channel trend: Narrowing
+Southward transects: 2
+Northward transects: 17
+Stable transects: 0
+
+Period: 2020–2025
+Mean centre movement: 31.97 m
+Mean width change: 62.37 m
+Centre direction: Southward
+Channel trend: Widening
+Southward transects: 9
+Northward transects: 9
+Stable transects: 1
+
+CENTRELINE DISPLACEMENT FROM 1990
+
+1990: 0.00 m
+2000: 609.50 m
+2010: 2313.84 m
+2015: 919.86 m
+2020: 275.61 m
+2025: 298.75 m
+
+END OF REPORT
+
+EROSION AND ACCRETION ANALYSIS
+Study period: 1990–2025
+Duration: 35 years
+
+Sign convention:
+Positive retreat_m = landward retreat.
+Negative retreat_m = channelward advance.
+Zero retreat_m = stable.
+
+BANK SUMMARY
+
+Bank: North
+Transects: 19
+Retreat classifications: 5
+Advance classifications: 9
+Stable classifications: 5
+Mean signed retreat: -86.84 m
+Mean signed rate: -2.48 m/year
+Maximum retreat: 135.00 m
+Maximum advance (signed): -360.00 m
+
+Bank: South
+Transects: 19
+Retreat classifications: 1
+Advance classifications: 18
+Stable classifications: 0
+Mean signed retreat: -678.16 m
+Mean signed rate: -19.38 m/year
+Maximum retreat: 495.00 m
+Maximum advance (signed): -1245.00 m
+
+RETREAT HOTSPOTS
+
+Rank 1: T19 (south) — 495.00 m retreat, 14.14 m/year
+Rank 2: T01 (north) — 135.00 m retreat, 3.86 m/year
+Rank 3: T02 (north) — 105.00 m retreat, 3.00 m/year
+Rank 4: T07 (north) — 45.00 m retreat, 1.29 m/year
+Rank 5: T04 (north) — 15.00 m retreat, 0.43 m/year
+Rank 6: T10 (north) — 15.00 m retreat, 0.43 m/year
+
+LIMITATIONS
+These results are based on digitized bank positions.
+They are provisional and require validation against
+original satellite imagery and independent reference data.
+
+END OF EROSION AND ACCRETION SECTION

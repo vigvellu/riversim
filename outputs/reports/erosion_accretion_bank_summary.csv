@@ -1,0 +1,3 @@
+bank,transect_count,mean_signed_retreat_m,median_signed_retreat_m,mean_signed_rate_m_per_year,maximum_retreat_m,maximum_advance_m,mean_absolute_displacement_m,Retreat,Advance,Stable
+north,19,-86.84210526315789,0.0,-2.481203007518797,135.0,-360.0,120.0,5,9,5
+south,19,-678.1578947368421,-660.0,-19.37593984962406,495.0,-1245.0,730.2631578947369,1,18,0
